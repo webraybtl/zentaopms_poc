@@ -16,3 +16,6 @@
 
 ## 详情分析
 ![blockchain](https://github.com/webraybtl/zentaopms_poc/blob/main/1673535459685.jpg "公众号")
+
+
+## 漏洞分析仅供学习交流和思路分享，请勿⽤于⾮法⽤途。
