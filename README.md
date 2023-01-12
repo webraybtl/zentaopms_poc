@@ -15,4 +15,4 @@
 | 企业版  | 7.4以下的未知版本<=version<=8.0.beta1 8.0.beta2 |
 
 ## 详情分析-关注公众号
-![图片无效](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkzNjMxNDM0Mg==&mid=2247485621&idx=1&sn=a1100c88b37dada37eb0222c62cba845&send_time=)
+![blockchain](https://github.com/webraybtl/zentaopms_poc/blob/main/1673535459685.jpg "公众号")
