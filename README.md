@@ -14,5 +14,5 @@
 | 旗舰版  | 3.4以下的未知版本<=version<=4.0.beta1 |
 | 企业版  | 7.4以下的未知版本<=version<=8.0.beta1 8.0.beta2 |
 
-## 详情分析-关注公众号
+## 详情分析
 ![blockchain](https://github.com/webraybtl/zentaopms_poc/blob/main/1673535459685.jpg "公众号")
